@@ -1,0 +1,7 @@
+{
+  "name": "subir-imagen",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
